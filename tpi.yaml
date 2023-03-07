@@ -1,5 +1,5 @@
 blueprint:
-  name: Thermostat TPI
+  name: Thermostat TPI fork
   description: Thermostat TPI (Time Propertional & Integral)
   domain: automation
 
